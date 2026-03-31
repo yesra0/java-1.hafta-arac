@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f0f2f5; /* Hafif gri arka plan */
+  color: #333;
+}
+
+* {
+  box-sizing: border-box;
+}

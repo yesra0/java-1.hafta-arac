@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.araba-kart {
+  background: rgb(255, 177, 177);
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  border-top: 5px solid #ff5757;
+  width: 300px;
+}
+
+.vurgu {
+  background-color: #e7faff;
+  color: #009c22;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.ozet-metin {
+  margin-top: 15px;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #666;
+}
